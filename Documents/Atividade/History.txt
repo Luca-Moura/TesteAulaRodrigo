@@ -1,0 +1,71 @@
+    1  git clone https://github.com/lrpfeliciano/senacbotafogo
+    2  git -c http.sslVerify=false clone https://github.com/lrpfeliciano/senacbotafogo.git
+    3  cd senacbotafogo
+    4  git init
+    5  git add .
+    6  git commit -m "upload Luca"
+    7  git -c http.sslVerify=false pull
+    8  git -c http.sslVerify=false push -u origin master
+    9  git -c http.sslVerify=false pull
+   10  git -c http.sslVerify=false push -u origin master
+   11  git pull
+   12  git htp.sslVerify=false pull
+   13  git -c http.sslVerify=false pull
+   14  git -c http.sslVerify=false push .
+   15  git -c http.sslVerify=false pull
+   16  git -c http.sslVerify=false push .
+   17  git -c http.sslVerify=false add .
+   18  git -c http.sslVerify=false commit .
+   19  git -c http.sslVerify=false commit . V2
+   20  git commit -m "V2"
+   21  git htt.sslVerify=false push . 
+   22  git http.sslVerify=false push .
+   23  git -c http.sslVerify=false push .
+   24  mkdir Atividade
+   25  cd Atividade
+   26  cd ..
+   27  rmdir Atividade
+   28  mkdir Atividade
+   29  cd Atividade
+   30  vim ~/Atividade/Luca.txt
+   31  git commit -m Inicial
+   32  git commit -m "Inicial"
+   33  history
+   34  git add ~/Atividade
+   35  cd ..
+   36  git add ~/Atividade
+   37  git init 
+   38  git add ~/Atividade
+   39  git commit -m "Inicial"
+   40  git push .
+   41  git push ~/Atividade
+   42  git remote add origin https://github.com/Luca-Moura/TesteAulaRodrigo
+   43  push origin .
+   44  git push .
+   45  git add ~/Atividade
+   46  git commit -m 'Um'
+   47  cd  ~/Atividade
+   48  git add .
+   49  git commit -m "Um"
+   50  git reset
+   51  git add .
+   52  git commit -m "Um"
+   53  git remote add origin https://github.com/Luca-Moura/TesteAulaRodrigo.git
+   54  git reset
+   55  git add Luca.txt
+   56  git commit -m "Dois"
+   57  cd ..
+   58  cd Documents
+   59  cd Atividade
+   60  git add .
+   61  git commit -m "Uno"
+   62* git -c push .
+   63  git -c http.sslVerify=false push origin master
+   64  git add Luca.txt
+   65  git commit -m "Dois"
+   66  git -c http.sslVerify=false push origin master
+   67  history
+   68  history >> ~/TesteAulaRodrigo/History.txt
+   69  touch ~/TesteAulaRodrigo/History.txt
+   70  history >> ~/TesteAulaRodrigo/History.txt
+   71  history >> History.txt
